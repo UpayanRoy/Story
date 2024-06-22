@@ -1,1 +1,5 @@
-This is the chapter 2 for which I do not have much to write. India should win against Bangladesh but anything can happen in Cricket.
+This is the chapter 2 for which I do not have much to write. 
+India should win against Bangladesh but anything can happen in Cricket.
+Unless aliens invade the ground and stop the game.
+
+Learnt some new things about git and github
