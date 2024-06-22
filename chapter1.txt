@@ -1,0 +1,1 @@
+This is my first txt file to be used to learn Git. I created it on 22nd June 2024 (Ind vs Ban T20WC match today). I am learning from 100days of code day70 (skipped day60 to 69).
